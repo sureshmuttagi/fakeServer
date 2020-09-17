@@ -10,5 +10,53 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "events":[
+      {
+         "id":66,
+         "name":"Premium Open House Experience - September",
+         "country":"Canada",
+         "city":"Vancouver",
+         "state":"British Columbia",
+         "slug":"premium-open-house-experience---september",
+         "promoted":true,
+         "startDate":"2020-09-24T00:00:00",
+         "endDate":"2020-09-24T00:00:00",
+         "startApplicationDate":"2020-08-26T00:00:00",
+         "endApplicationDate":"2020-09-24T00:00:00",
+         "isOnline":false,
+         "eventType":2,
+         "applied":false,
+         "possibleToApply":true,
+         "subtitle":"September 24, 2020",
+         "theEvent":"<p>Have you wondered what our <strong>Premium Interview-practice classes</strong> are like?&nbsp;</p>\n<p>This is a pretty popular service we offer at VanHack Premium. It’s a great opportunity to improve your interview skills, network, and also your English grammar, vocabulary, pronunciation, and confidence. Our Premium candidates absolutely love it! &nbsp;</p>\n<p><br></p>\n<p>Come and join this <strong>FREE OPEN HOUSE EXPERIENCE at 4 AM and 8 AM (PST)</strong>! Get a little taste of VH Premium.</p>",
+         "theCandidates":"<p>VanHack is looking for candidates with 3 or more years of professional experience.</p>\n  <p>Candidates also need to have advanced or fluent English and be able to attend the Webinar event on September 24 in person.</p>\n  <p>Most importantly, candidates must be willing to get a job in Canada and/or Europe, and to relocate in the second semester of 2020.</p>",
+         "flag":"https://vanhackblobstorageprod.blob.core.windows.net/flags/globe-www.svg",
+         "cover":"https://vanhackblobstorageprod.blob.core.windows.net/img/events/cover/11ca302d-03ce-4317-98ed-3711c820c37a.jpg",
+         "thumb":"https://vanhackblobstorageprod.blob.core.windows.net/img/events/thumbnail/5f6f32fb-81cf-421c-87dc-d55edf33db4c.jpg"
+      },
+      {
+         "id":61,
+         "name":"Virtual Hiring Event for Women",
+         "country":"Canada",
+         "city":"Vancouver",
+         "state":"British Columbia",
+         "slug":"virtual-hiring-event-for-women",
+         "promoted":false,
+         "startDate":"2020-09-21T00:00:00",
+         "endDate":"2020-09-25T00:00:00",
+         "startApplicationDate":"2020-07-20T00:00:00",
+         "endApplicationDate":"2020-09-11T00:00:00",
+         "isOnline":false,
+         "eventType":6,
+         "applied":false,
+         "possibleToApply":false,
+         "subtitle":"September 21 - 25, 2020",
+         "theEvent":"<p>VanHack is hosting our first <strong>Virtual Hiring Event for Women the week of September 21st.</strong> If you are a woman developer and are looking for a job abroad you should apply.</p>\n<p><br></p>\n<p>We are looking for candidates with:&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>- 4+ years of professional experience</strong></p>\n<p><strong>- Verified English</strong></p>\n<p><strong>-</strong> Nice to have: <strong>Good results in the coding challenge&nbsp;</strong></p>\n<p><br></p>\n<p><strong>***Don't worry you still have until mid of August to complete your profile.</strong></p>\n<p><br></p>\n<p><strong>Here are some of the top skills companies are looking for right now:</strong></p>\n<p><br></p>\n<p><strong>- RoR</strong></p>\n<p><strong>- JavaScript</strong></p>\n<p><strong>- Python</strong></p>\n<p><strong>- DevOps</strong></p>\n<p><strong>- Java</strong></p>\n<p><strong>- React</strong></p>\n<p><strong>- Angular</strong></p>\n<p><strong>- .NET</strong></p>\n<p><strong>- PHP</strong></p>\n<p><strong>- C#</strong></p>\n<p><br></p>\n<p><strong>What to expect once you've applied:&nbsp;</strong></p>\n<ul>\n  <li>You have until September 13th to complete your VanHack profile</li>\n  <li>We will start the selection process the week of August 24th</li>\n  <li>The selection process will take roughly a month</li>\n  <li>If you receive a rejection it’s not because you haven't a good profile - we will be picking candidates based on what the companies ask for.</li>\n  <li>Being selected doesn’t guarantee an interview</li>\n  <li>We will forward selected profiles to the participating companies</li>\n  <li>When a company shows interest in your profile we will reach out to you directly</li>\n  <li>Get prepared through VanHack with access to classes twice a week</li>\n  <li>Be ready to start remotely before relocating to Canada or Europe</li>\n  <li>Be open to different cities in Canada and Europe (let us know if you have questions)</li>\n</ul>\n<p><strong>Logistics:</strong></p>\n<ul>\n  <li>If a company selects your profile we will inform you immediately and will schedule the interview during that time frame</li>\n  <li>Since the event got extended someone from our team can reach out to you until September 25th.</li>\n</ul>",
+         "theCandidates":"<p>VanHack is looking for candidates with 3 or more years of professional experience.</p>\n  <p>Candidates also need to have advanced or fluent English and be able to attend the Virtual Hiring Fair event on 21 until 25 September in person.</p>\n  <p>Most importantly, candidates must be willing to get a job in Canada and/or Europe, and to relocate in the second semester of 2020.</p>",
+         "flag":"https://vanhackblobstorageprod.blob.core.windows.net/flags/canada.svg",
+         "cover":"https://vanhackblobstorageprod.blob.core.windows.net/img/events/cover/12eea0c2-c658-447e-9f87-3e5a62350ed5.jpg",
+         "thumb":"https://vanhackblobstorageprod.blob.core.windows.net/img/events/thumbnail/cb0ec66f-0f9f-4821-81b9-27056473c7b3.jpg"
+      }
+   ]
 }
